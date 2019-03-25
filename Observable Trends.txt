@@ -1,0 +1,8 @@
+Observable Trends:
+==================
+
+1. I observe that when the City latitude is closer to the equator (Latitude =0), the max temperature is higher. This can be observed from cities like "Presidente Epitacio" and "Ciudad Bolivar". 
+
+2. I observe that humdity is higher for cities closer to equator and on the northern hemisphere. Southern hemisphere has less humidity. 
+
+3. I observe that the WindSpeed doesn't seem to directly correlate to cities near the equator. A wide range of cities closer and away from equator fall have similar wind speed. 
